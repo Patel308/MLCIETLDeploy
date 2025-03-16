@@ -6,5 +6,10 @@ certifi
 pymongo
 pymongo[srv]==3.12
 scikit-learn 
-
+mlflow
+pyaml 
+dagshub 
+fastapi
+uvicorn 
+python-multipart
 #-e . # this is basically used for deploy like on the cloud 
