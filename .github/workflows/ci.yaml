@@ -1,12 +1,11 @@
-name: workflow
+name: CI Pipeline
 
 on:
   push:
     branches:
-      - main
+      - master  # Change to 'main' if needed
     paths-ignore:
       - 'README.md'
-
 
 jobs:
   integration:
