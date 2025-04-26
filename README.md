@@ -1,11 +1,11 @@
 # MLCIETLDeploy 
-🛠️ End-to-End MLOps Project: ETL → Training → CI/CD → Deployment (AWS + FastAPI)
+#🛠️ End-to-End MLOps Project: ETL → Training → CI/CD → Deployment (AWS + FastAPI)
 📚 Overview
 This project showcases a complete end-to-end Machine Learning workflow — from data ingestion and ETL, to model training, experiment tracking, Dockerization, CI/CD automation, cloud deployment on AWS, and API serving with FastAPI.
 
 It reflects real-world production MLOps practices, integrating Data Engineering, Machine Learning Engineering, and DevOps into a seamless pipeline.
 
-🔥 Tech Stack and Tools
+#🔥 Tech Stack and Tools
 
 Stage      	                      Tool/Framework
 Data Ingestion & ETL            	Python, Pandas
@@ -19,7 +19,7 @@ API Framework                   	FastAPI
 Monitoring (optional)             MLflow UI, DagsHub dashboard
 
 
-⚙️ Project Architecture
+#⚙️ Project Architecture
 +------------------+
 |  Data Ingestion   |  <- Load raw data (CSV/Database/API)
 +------------------+
@@ -63,7 +63,7 @@ Monitoring (optional)             MLflow UI, DagsHub dashboard
 +-----------------------------+
 
 
-Key Features
+#Key Features
 End-to-End Modular Pipeline: From ingestion to deployment.
 
 Experiment Tracking:
@@ -85,7 +85,7 @@ API Serving with FastAPI: REST API exposing model predictions.
 CI/CD Automation: GitHub Actions for linting, testing, and Docker builds.
 
 
-🧠 Future Improvements
+#🧠 Future Improvements
 Add Model Monitoring (Prometheus + Grafana).
 
 Use Airflow for automated retraining pipelines.
@@ -96,6 +96,6 @@ Set up Auto-scaling and Load Balancer.
 
 Integrate Slack notifications for CI/CD pipelines.
 
-✨ Author
+#✨ Author
 Patel308 — Passionate about Machine Learning, MLOps, Data Engineering, and Cloud Systems 🚀
 
