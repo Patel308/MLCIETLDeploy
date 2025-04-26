@@ -8,15 +8,15 @@ This project showcases a complete end-to-end Machine Learning workflow — from 
 # 🔥 Tech Stack and Tools
 
 # Stage      	                      Tool/Framework
-Data Ingestion & ETL        -    	Python, Pandas
-Model Training	       -           Scikit-learn
-Experiment Tracking	     -         MLflow (Local), DagsHub (Remote)
-Model Packaging            -     	Docker
-CI/CD                 -          	GitHub Actions
-Container Registry      -        	AWS ECR (Elastic Container Registry)
-Deployment	   -                   AWS EC2
-API Framework            -       	FastAPI
-Monitoring (optional)     -        MLflow UI, DagsHub dashboard
+Data Ingestion & ETL        -    	Python, Pandas.
+Model Training	       -           Scikit-learn.
+Experiment Tracking	     -         MLflow (Local), DagsHub (Remote).
+Model Packaging            -     	Docker.
+CI/CD                 -          	GitHub Actions.
+Container Registry      -        	AWS ECR (Elastic Container Registry).
+Deployment	   -                   AWS EC2.
+API Framework            -       	FastAPI.
+Monitoring (optional)     -        MLflow UI, DagsHub dashboard.
 
 
 # ⚙️ Project Architecture
